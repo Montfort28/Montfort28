@@ -32,8 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats  
 ![Montfort's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Montfort28&show_icons=true&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Montfort28&theme=radical)  
