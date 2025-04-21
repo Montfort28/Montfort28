@@ -35,10 +35,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Montfort28&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=Montfor28t&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montfort28&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Montfort28&show_icons=true&theme=radical" alt="Mugisha's GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Montfort28&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montfort28&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ---
 
@@ -47,7 +48,8 @@
 - 🌐 Portfolio: [montfortportfolio.tk](https://montfortportfolio.tk)
 - 📧 Email: mugishamontfort28@gmail.com
 - 📱 Phone: 0790779776
-- 💼 LinkedIn: www.linkedin.com/in/mugisha-montfort-5b9177346
+- 💼 LinkedIn: [https://www.linkedin.com/in/mugisha-montfort-5b9177346/](https://www.linkedin.com/in/mugisha-montfort-5b9177346/)
+- 📲 instagram: [https://www.instagram.com/mont_fort_/](https://www.instagram.com/mont_fort_/)
 - 🎖️ Posinnove Certificate • Beyond Success Leader
 
 ---
