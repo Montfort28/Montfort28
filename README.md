@@ -35,16 +35,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Montfort&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=Montfort&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montfort&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Montfort28&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Montfor28t&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montfort28&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: [montfortportfolio.tk](https://montfortportfolio.tk) *(update after domain setup)*
+- 🌐 Portfolio: [montfortportfolio.tk](https://montfortportfolio.tk)
 - 📧 Email: mugishamontfort28@gmail.com
 - 📱 Phone: 0790779776
 - 💼 LinkedIn: www.linkedin.com/in/mugisha-montfort-5b9177346
