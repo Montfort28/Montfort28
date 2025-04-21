@@ -28,17 +28,17 @@
 
 ## 🧰 Tech Toolbox
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mysql,prisma,tailwind,figma,vercel,git,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,vuejs,express,mysql,tailwind,figma,vercel,git,github,vscode)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Montfort28&show_icons=true&theme=radical" alt="Mugisha's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Montfort28&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montfort28&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 📊 GitHub Stats  
+![Montfort's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Montfort28&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Montfort28&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Montfort28&layout=compact&theme=radical)
+
 
 
 ---
@@ -50,9 +50,12 @@
 - 📱 Phone: 0790779776
 - 💼 LinkedIn: [https://www.linkedin.com/in/mugisha-montfort-5b9177346/](https://www.linkedin.com/in/mugisha-montfort-5b9177346/)
 - 📲 instagram: [https://www.instagram.com/mont_fort_/](https://www.instagram.com/mont_fort_/)
-- 🎖️ Posinnove Certificate • Beyond Success Leader
-
 ---
+
+🎖️ Certificates:  
+- Posinnove Frontend Certificate  
+- Beyond Success Leadership Program  
+
 
 > “Code builds the future. Character builds the coder.”
 
