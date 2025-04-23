@@ -1,5 +1,5 @@
 
-## Fullstack Software Developer | HOVA AI Intern
+## Fullstack Software Developer 
 
 I'm Mugisha Louis Marie de Montfort, a passionate and purpose-driven software developer specializing in frontend and full-stack development. I enjoy building digital solutions that solve real-world problems and uplift communities. Currently interning at HOVA AI, I’m focused on enhancing my skills through impactful projects.
 
