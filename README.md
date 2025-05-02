@@ -27,7 +27,7 @@ I'm Mugisha Louis Marie de Montfort, a passionate and purpose-driven software de
 ## 📊 GitHub Insights
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Montfort28&show_icons=true&theme=tokyonight" alt="Montfort's GitHub Stats" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Montfort28&theme=dark" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=Montfort28&theme=dark" alt="Montfort's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montfort28&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
